@@ -37,7 +37,6 @@ bash
 git clone https://github.com/2205308070309shenziwei/Shopper.git
 
 # 安装依赖
-npm init -y
 cd shopper
 npm install
 cd client
