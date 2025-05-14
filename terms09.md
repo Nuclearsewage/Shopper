@@ -16,8 +16,6 @@ Environment variables	环境变量
 英文术语	中文翻译
 User Authentication	用户认证
 Product filtering	商品筛选
-Guest checkout	游客结账
-Cart system	购物车系统
 Order placement	订单提交
 Checkout logic	结算逻辑
 🖥️ 管理相关术语 (Admin Terms)
@@ -28,8 +26,6 @@ CRUD operations	增删改查操作
 ⚙️ 开发术语 (Development Terms)
 英文术语	中文翻译
 npm/yarn	包管理工具
-Dependency installation	依赖安装
-Configuration file	配置文件
 Port number	端口号
 📦 部署术语 (Deployment Terms)
 英文术语	中文翻译
