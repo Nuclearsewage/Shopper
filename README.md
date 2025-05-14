@@ -86,3 +86,29 @@ Advanced analytics dashboard
 👨‍💻 Author
 Aakash Pawar
 GitHub Profile | Portfolio | Contact
+
+shopper/
+├── client/                 
+│   ├── public/           
+│   ├── src/
+│   │   ├── components/    
+│   │   ├── pages/         
+│   │   ├── hooks/         
+│   │   ├── services/      
+│   │   ├── store/         
+│   │   ├── App.js         
+│   │   └── index.js       
+│   ├── package.json      
+│   └── .env              
+├── server/                
+│   ├── controllers/       
+│   ├── middleware/        
+│   ├── models/           
+│   ├── routes/            
+│   ├── utils/             
+│   ├── app.js             
+│   └── server.js          
+├── .env                    
+├── package.json           
+├── README.md              
+└── docker-compose.yml      
